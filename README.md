@@ -22,6 +22,8 @@
 
 ## Enterprise Guides #####################################################################################################
 
+* [Enterprise for London](http://www.enterpriseforlondon.com/)
+
 * [What is a SME?](http://ec.europa.eu/growth/smes/business-friendly-environment/sme-definition/)
 
 * [Horizons](https://horizons.innovateuk.org/about)
@@ -70,6 +72,13 @@
 
 * [Immigrant entrepreneurs behind fantastic UK businesses](https://startups.co.uk/immigrant-entrepreneurs-behind-fantastic-uk-businesses/)
 
+## Links about IoT #####################################################################################################
+
+* [Microsoft IoT Blog](https://blogs.microsoft.com/iot/)
+
+* [Maximize the impact of IoT Proof of Concept](http://download.microsoft.com/download/8/5/7/857B29B9-9BD5-4A8E-B199-EC2EF96F9EB0/Maximizing_the_impact_of_your_IoT_Proof_of_Concept_whitepaper_EN_US.pdf)
+
+* [Microsoft IoT business models examples](https://content.microsoft.com/iot/business-models)
 
 ## Author
 
