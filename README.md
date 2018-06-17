@@ -40,7 +40,7 @@
 
 * [London: the AI Growth Capital of Europe](https://cognitionx.com/london-the-ai-growth-capital-of-europe)
 
-* [Create Billion Dollar app](http://www.labsoflatvia com/content/slides/George%20Berkowski.pdf)
+* [Create Billion Dollar app](http://www.labsoflatvia.com/content/slides/George%20Berkowski.pdf)
 
 * [SALARY SURVEY 2018 EUROPE](https://www.robertwalters.com/content/dam/robert-walters/global/files/salary-survey/RW-European-Salary-Survey-2018.pdf)
 
