@@ -2,6 +2,8 @@
 
 ## Competitions + Startup Accelerators ###################################################################################################
 
+* [IBM Code for challenge](https://developer.ibm.com/callforcode/resources/financial-networks/)
+
 * [Mayor of London’s Civic Innovation Challenge](https://www.london.gov.uk/what-we-do/business-and-economy/supporting-londons-sectors/supporting-tech-and-digital-sectors/mayor-londons-civic-innovation-challenge)
 
 * [VentureEU](http://europa.eu/rapid/press-release_IP-18-2763_en.htm)
@@ -83,4 +85,4 @@
 ## Author
 
 * **Pedro A. Lopez F.** - *Initial work* - 
-* **17/06/18**
+* **19/06/18**
