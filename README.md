@@ -42,6 +42,8 @@
 
 ## Reports #####################################################################################################
 
+*[London Tech Diversity](http://www.cityam.com/287773/london-tech-organisations-unite-jp-morgan-chase-double)
+
 * [London: the AI Growth Capital of Europe](https://cognitionx.com/london-the-ai-growth-capital-of-europe)
 
 * [Create Billion Dollar app](http://www.labsoflatvia.com/content/slides/George%20Berkowski.pdf)
