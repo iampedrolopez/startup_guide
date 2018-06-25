@@ -84,6 +84,10 @@
 
 * [Microsoft IoT business models examples](https://content.microsoft.com/iot/business-models)
 
+## Links about Machhine Learning ##########################################################################################
+
+*[Banks and Machine Learning](https://www.ft.com/content/e2645d5e-d67e-11e7-8c9a-d9c0a5c8d5c9)
+
 ## Author
 
 * **Pedro A. Lopez F.** - *Initial work* - 
