@@ -50,6 +50,8 @@
 
 * [SALARY SURVEY 2018 EUROPE](https://www.robertwalters.com/content/dam/robert-walters/global/files/salary-survey/RW-European-Salary-Survey-2018.pdf)
 
+* [GROWING THE ARTIFICIAL INTELLIGENCE INDUSTRY IN THE UK](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/652097/Growing_the_artificial_intelligence_industry_in_the_UK.pdf)
+
 ## Market Info #####################################################################################################
 
 * [Artificial Intelligence (AI) in Retail Market to hit $8bn by 2024](https://www.datasciencecentral.com/profiles/blogs/artificial-intelligence-ai-in-retail-market-to-hit-8bn-by-2024)
