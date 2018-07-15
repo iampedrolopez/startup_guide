@@ -42,6 +42,8 @@
 
 ## Reports #####################################################################################################
 
+*[Insurtech PWC Report](https://www.pwc.co.uk/industries/financial-services/insurtech.html)
+
 *[London Tech Diversity](http://www.cityam.com/287773/london-tech-organisations-unite-jp-morgan-chase-double)
 
 * [London: the AI Growth Capital of Europe](https://cognitionx.com/london-the-ai-growth-capital-of-europe)
