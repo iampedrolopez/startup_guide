@@ -42,6 +42,8 @@
 
 ## Reports #####################################################################################################
 
+*[UK Tech Projects](https://spectrum.ieee.org/riskfactor/computing/it/major-uk-it-projects-show-minimal-improvement)
+
 *[Insurtech PWC Report](https://www.pwc.co.uk/industries/financial-services/insurtech.html)
 
 *[London Tech Diversity](http://www.cityam.com/287773/london-tech-organisations-unite-jp-morgan-chase-double)
