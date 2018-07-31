@@ -106,6 +106,8 @@
 
 *[Product Design](https://eu.udacity.com/course/product-design--ud509)
 
+*[Github optimization](https://eu.udacity.com/course/optimize-your-github--ud247)
+
 ## Author
 
 * **Pedro A. Lopez F.** - *Initial work* - 
