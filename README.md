@@ -94,7 +94,19 @@
 
 *[Banks and Machine Learning](https://www.ft.com/content/e2645d5e-d67e-11e7-8c9a-d9c0a5c8d5c9)
 
+## GOOGLE Courses #########################################################################################################
+
+*[Get your startup started](https://eu.udacity.com/course/get-your-startup-started--ud806)
+
+*[App Marketing](https://www.class-central.com/course/udacity-app-marketing-4850)
+
+*[App Monetization](https://eu.udacity.com/course/app-monetization--ud518)
+
+*[Strengthen Your LinkedIn Network & Brand](https://eu.udacity.com/course/strengthen-your-linkedin-network-and-brand--ud242)
+
+*[Product Design](https://eu.udacity.com/course/product-design--ud509)
+
 ## Author
 
 * **Pedro A. Lopez F.** - *Initial work* - 
-* **19/06/18**
+* **31/07/18**
