@@ -108,7 +108,11 @@
 
 *[Github optimization](https://eu.udacity.com/course/optimize-your-github--ud247)
 
+## Machine Learning Guides ###############################################################################################
+
+*[MCKINSEY GUIDE TO MACHINE LEARNING](https://www.mckinsey.com/industries/high-tech/our-insights/an-executives-guide-to-machine-learning)
+
 ## Author
 
 * **Pedro A. Lopez F.** - *Initial work* - 
-* **31/07/18**
+* **18/08/18**
