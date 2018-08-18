@@ -112,6 +112,9 @@
 
 *[MCKINSEY GUIDE TO MACHINE LEARNING](https://www.mckinsey.com/industries/high-tech/our-insights/an-executives-guide-to-machine-learning)
 
+*[MCKINSEY 100 USE CASES ML](https://www.mckinsey.com/featured-insights/artificial-intelligence/visualizing-the-uses-and-potential-impact-of-ai-and-other-analytics
+)
+
 ## Author
 
 * **Pedro A. Lopez F.** - *Initial work* - 
