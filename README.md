@@ -124,6 +124,8 @@
 
 * [How to write a readme](https://eu.udacity.com/course/writing-readmes--ud777)
 
+* [Readme Guide](http://udacity.github.io/git-styleguide/)
+
 ### Machine Learning Guides ###
 
 * [MCKINSEY GUIDE TO MACHINE LEARNING](https://www.mckinsey.com/industries/high-tech/our-insights/an-executives-guide-to-machine-learning)
