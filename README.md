@@ -42,11 +42,11 @@
 
 ### Reports ###
 
-*[UK Tech Projects](https://spectrum.ieee.org/riskfactor/computing/it/major-uk-it-projects-show-minimal-improvement)
+* [UK Tech Projects](https://spectrum.ieee.org/riskfactor/computing/it/major-uk-it-projects-show-minimal-improvement)
 
-*[Insurtech PWC Report](https://www.pwc.co.uk/industries/financial-services/insurtech.html)
+* [Insurtech PWC Report](https://www.pwc.co.uk/industries/financial-services/insurtech.html)
 
-*[London Tech Diversity](http://www.cityam.com/287773/london-tech-organisations-unite-jp-morgan-chase-double)
+* [London Tech Diversity](http://www.cityam.com/287773/london-tech-organisations-unite-jp-morgan-chase-double)
 
 * [London: the AI Growth Capital of Europe](https://cognitionx.com/london-the-ai-growth-capital-of-europe)
 
@@ -104,27 +104,31 @@
 
 ### Links about Machhine Learning ###
 
-*[Banks and Machine Learning](https://www.ft.com/content/e2645d5e-d67e-11e7-8c9a-d9c0a5c8d5c9)
+* [Banks and Machine Learning](https://www.ft.com/content/e2645d5e-d67e-11e7-8c9a-d9c0a5c8d5c9)
 
-### GOOGLE Courses ###
+### UDACITY Courses ###
 
-*[Get your startup started](https://eu.udacity.com/course/get-your-startup-started--ud806)
+* [Get your startup started](https://eu.udacity.com/course/get-your-startup-started--ud806)
 
-*[App Marketing](https://www.class-central.com/course/udacity-app-marketing-4850)
+* [App Marketing](https://www.class-central.com/course/udacity-app-marketing-4850)
 
-*[App Monetization](https://eu.udacity.com/course/app-monetization--ud518)
+* [App Monetization](https://eu.udacity.com/course/app-monetization--ud518)
 
-*[Strengthen Your LinkedIn Network & Brand](https://eu.udacity.com/course/strengthen-your-linkedin-network-and-brand--ud242)
+* [Strengthen Your LinkedIn Network & Brand](https://eu.udacity.com/course/strengthen-your-linkedin-network-and-brand--ud242)
 
-*[Product Design](https://eu.udacity.com/course/product-design--ud509)
+* [Product Design](https://eu.udacity.com/course/product-design--ud509)
 
-*[Github optimization](https://eu.udacity.com/course/optimize-your-github--ud247)
+* [Github optimization](https://eu.udacity.com/course/optimize-your-github--ud247)
+
+* [How to use github](https://eu.udacity.com/course/how-to-use-git-and-github--ud775)
+
+* [How to write a readme](https://eu.udacity.com/course/writing-readmes--ud777)
 
 ### Machine Learning Guides ###
 
-*[MCKINSEY GUIDE TO MACHINE LEARNING](https://www.mckinsey.com/industries/high-tech/our-insights/an-executives-guide-to-machine-learning)
+* [MCKINSEY GUIDE TO MACHINE LEARNING](https://www.mckinsey.com/industries/high-tech/our-insights/an-executives-guide-to-machine-learning)
 
-*[MCKINSEY 100 USE CASES ML](https://www.mckinsey.com/featured-insights/artificial-intelligence/visualizing-the-uses-and-potential-impact-of-ai-and-other-analytics
+* [MCKINSEY 100 USE CASES ML](https://www.mckinsey.com/featured-insights/artificial-intelligence/visualizing-the-uses-and-potential-impact-of-ai-and-other-analytics
 )
 
 ## Author
