@@ -1,6 +1,6 @@
 # Startup_Roadmap.md
 
-## Competitions + Startup Accelerators ###################################################################################################
+### Competitions + Startup Accelerators -----------------------------------------------------------------------------------
 
 * [IBM Code for challenge](https://developer.ibm.com/callforcode/resources/financial-networks/)
 
@@ -16,13 +16,13 @@
 
 * [UK Innovation Competition](https://apply-for-innovation-funding.service.gov.uk/competition/search)
 
-## Startup Pitch Examples ###################################################################################################
+### Startup Pitch Examples ------------------------------------------------------------------------------------------------
 
 * [CogX18 Day 1](https://www.youtube.com/watch?v=NXz3JtdZJtI)
 
 * [CogX18 Day 1](https://www.youtube.com/watch?v=Wj6nnDPJ0jU) 
 
-## Enterprise Guides #####################################################################################################
+### Enterprise Guides -----------------------------------------------------------------------------------------------------
 
 * [Enterprise for London](http://www.enterpriseforlondon.com/)
 
@@ -40,7 +40,7 @@
 
 * [Set up a private limited company](https://www.gov.uk/limited-company-formation)
 
-## Reports #####################################################################################################
+### Reports ---------------------------------------------------------------------------------------------------------------
 
 *[UK Tech Projects](https://spectrum.ieee.org/riskfactor/computing/it/major-uk-it-projects-show-minimal-improvement)
 
@@ -56,11 +56,23 @@
 
 * [GROWING THE ARTIFICIAL INTELLIGENCE INDUSTRY IN THE UK](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/652097/Growing_the_artificial_intelligence_industry_in_the_UK.pdf)
 
-## Market Info #####################################################################################################
+### Market Info -----------------------------------------------------------------------------------------------------------
 
 * [Artificial Intelligence (AI) in Retail Market to hit $8bn by 2024](https://www.datasciencecentral.com/profiles/blogs/artificial-intelligence-ai-in-retail-market-to-hit-8bn-by-2024)
 
-## Companies #####################################################################################################
+* [Blockchain Supply Chain Accenture](https://www.accenture.com/tr-en/insight-blockchain-supply-chain)
+
+* [Effective AI training](https://www.accenture.com/us-en/insight-ai-training-unlocking-iot-value)
+
+* [AI Productivity Boost](https://www.accenture.com/us-en/insight-ai-industry-growth)
+
+* [Accelerating Digital Performance](https://www.accenture.com/us-en/insight-accelerating-digital-performance-high-tech)
+
+* [AI Applications in HealthCare](https://www.accenture.com/us-en/insight-artificial-intelligence-healthcare?c=tech_acntechtwt_10000894&n=smc_0916)
+
+* [High Tech Guide](https://www.accenture.com/us-en/electronics-and-high-tech-index)
+
+### Funds -----------------------------------------------------------------------------------------------------------------
 
 * [Nesta](https://www.nesta.org.uk)
 
@@ -68,7 +80,7 @@
 
 * [Catapult Digital](https://www.digicatapult.org.uk/projects/machine-intelligence-garage)
 
-## Prototyping Tools #####################################################################################################
+### Prototyping Tools -----------------------------------------------------------------------------------------------------
 
 * [MockFlow](https://mockflow.com/)
 
@@ -76,13 +88,13 @@
 
 * [Google's Cloud AI](https://cloud.google.com/products/machine-learning/)
 
-## Inspirational Stories #####################################################################################################
+### Inspirational Stories -------------------------------------------------------------------------------------------------
 
 * [500 into 1bn](https://www.bbc.co.uk/news/business-44382928)
 
 * [Immigrant entrepreneurs behind fantastic UK businesses](https://startups.co.uk/immigrant-entrepreneurs-behind-fantastic-uk-businesses/)
 
-## Links about IoT #####################################################################################################
+### Links about IoT -------------------------------------------------------------------------------------------------------
 
 * [Microsoft IoT Blog](https://blogs.microsoft.com/iot/)
 
@@ -90,11 +102,11 @@
 
 * [Microsoft IoT business models examples](https://content.microsoft.com/iot/business-models)
 
-## Links about Machhine Learning ##########################################################################################
+### Links about Machhine Learning -----------------------------------------------------------------------------------------
 
 *[Banks and Machine Learning](https://www.ft.com/content/e2645d5e-d67e-11e7-8c9a-d9c0a5c8d5c9)
 
-## GOOGLE Courses #########################################################################################################
+### GOOGLE Courses --------------------------------------------------------------------------------------------------------
 
 *[Get your startup started](https://eu.udacity.com/course/get-your-startup-started--ud806)
 
@@ -108,7 +120,7 @@
 
 *[Github optimization](https://eu.udacity.com/course/optimize-your-github--ud247)
 
-## Machine Learning Guides ###############################################################################################
+### Machine Learning Guides -----------------------------------------------------------------------------------------------
 
 *[MCKINSEY GUIDE TO MACHINE LEARNING](https://www.mckinsey.com/industries/high-tech/our-insights/an-executives-guide-to-machine-learning)
 
