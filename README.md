@@ -133,7 +133,35 @@
 * [MCKINSEY 100 USE CASES ML](https://www.mckinsey.com/featured-insights/artificial-intelligence/visualizing-the-uses-and-potential-impact-of-ai-and-other-analytics
 )
 
+### Python Guide ###
+
+* [Python Practice Book](http://anandology.com/python-practice-book/index.html)
+
+* [Think Python](http://greenteapress.com/thinkpython/html/index.html)
+
+* [Practical Business Python](http://pbpython.com/)
+
+* [Another course](https://realpython.com/?utm_source=fsp&utm_medium=promo&utm_campaign=bestresources)
+
+* [General](https://www.fullstackpython.com/)
+
+* [Computer science using Python](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-11?ref=hackernoon#!)
+
+* [List of more resources for learning python](https://github.com/vinta/awesome-python)
+
+* [Interactive Python](http://interactivepython.org/runestone/static/thinkcspy/index.html)
+
+* [Developer’s Guide to Python](https://devguide.python.org/)
+
+### R Guide ###
+
+* [R Studio](https://www.rstudio.com/online-learning/)
+
+* [R programming](https://www.coursera.org/learn/r-programming)
+
+* [R for data science](http://r4ds.had.co.nz/)
+
 ## Author
 
 * **Pedro A. Lopez F.** - *Initial work* - 
-* **18/08/18**
+* **16/09/18**
